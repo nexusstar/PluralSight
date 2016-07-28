@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+About	components/about/aboutPage.js	/^var About = React.createClass({$/;"	v	language:JavaScript
+About	main.js	/^var About = require('.\/components\/about\/aboutPage');$/;"	v	language:JavaScript
+App	main.js	/^	var App = React.createClass({$/;"	v	language:JavaScript
+AuthorApi	components/authors/authorPage.js	/^var AuthorApi = require('..\/..\/api\/authorApi');$/;"	v	language:JavaScript
+Authors	components/authors/authorPage.js	/^var Authors = React.createClass({$/;"	v	language:JavaScript
+Authors	main.js	/^var Authors = require('.\/components\/authors\/authorPage');$/;"	v	language:JavaScript
+Header	components/common/header.js	/^var Header = React.createClass({$/;"	v	language:JavaScript
+Header	main.js	/^var Header = require('.\/components\/common\/header');$/;"	v	language:JavaScript
+Home	components/homePage.js	/^var Home = React.createClass({$/;"	v	language:JavaScript
+Home	main.js	/^var Home = require('.\/components\/homePage');$/;"	v	language:JavaScript
+React	components/about/aboutPage.js	/^var React = require('react');$/;"	v	language:JavaScript
+React	components/authors/authorPage.js	/^var React = require('react');$/;"	v	language:JavaScript
+React	components/common/header.js	/^var React = require('react');$/;"	v	language:JavaScript
+React	components/homePage.js	/^var React = require('react');$/;"	v	language:JavaScript
+React	main.js	/^var React = require('react');$/;"	v	language:JavaScript
+_	api/authorApi.js	/^var _ = require('lodash');$/;"	v	language:JavaScript
+_clone	api/authorApi.js	/^var _clone = function(item) {$/;"	f	language:JavaScript
+_generateId	api/authorApi.js	/^var _generateId = function(author) {$/;"	f	language:JavaScript
+authors	api/authorApi.js	/^var authors = require('.\/authorData').authors;$/;"	v	language:JavaScript
+authors	api/authorData.js	/^module.exports = {$/;"	p	language:JavaScript	class:module.exports
+deleteAuthor	api/authorApi.js	/^	},$/;"	m	language:JavaScript	class:AuthorApi
+getAllAuthors	api/authorApi.js	/^var AuthorApi = {$/;"	m	language:JavaScript	class:AuthorApi
+getAuthorById	api/authorApi.js	/^	},$/;"	m	language:JavaScript	class:AuthorApi
+render	main.js	/^	function render(){$/;"	f	language:JavaScript
+saveAuthor	api/authorApi.js	/^	},$/;"	m	language:JavaScript	class:AuthorApi
