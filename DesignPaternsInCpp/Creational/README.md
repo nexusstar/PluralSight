@@ -37,3 +37,14 @@ getting them to replace dependencies.
 
 * Dependency Injection - use of software frameworks to ensure that a component's
 dependencies are satisfied.
+
+## Monads
+* Monads are design patterns in functional programming
+  In *funcional programming* monads are a way to build computer programms by joining simple components
+  in predictable and robust ways.
+  A monad is a structure that represents computations defined as sequences of steps: a type with a monad structure defines what it means to chain operations together, or nest functions of that type.
+
+
+* Much more usable in functional languages due to
+  - Better treatment of functional objects
+  - Useful auxiliary constructors(e.g., pattern matching)
